@@ -15,3 +15,6 @@ p a + b * c - d / f ** g - (h +k)
 
 puts 0.4 - 0.3 == 0.1
 puts 0.1 == 0.1
+
+arr = [1,4,6,8,5]
+puts arr.sum
