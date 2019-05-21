@@ -42,5 +42,5 @@ p arr4
 
 strStrip = str.strip #Remove leading and ending whitespace
 puts strStrip
-p strStrip
+p strStrip.upcase
 
