@@ -18,3 +18,11 @@ puts 0.1 == 0.1
 
 arr = [1,4,6,8,5]
 puts arr.sum
+
+foo = <<-EOS
+From this valley they say you are going,
+We will miss your bright eyes and sweet smile,
+For they say you are taking the sunshine
+That has brightened our pathways a while.
+      EOS
+puts foo
